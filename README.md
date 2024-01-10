@@ -14,7 +14,12 @@ Abra o projeto no Android Studio.
 Execute o aplicativo em um emulador ou dispositivo Android.
 
 ## Demonstração
-Confira o vídeo de demonstração do aplicativo aqui.
+Confira o vídeo de demonstração do aplicativo.
+
+
+https://github.com/HSanttus/appCalculadoraIMC/assets/98761985/683b6513-c840-48ee-a2af-5cb29478abff
+
+
 
 ## Contribuições
 Contribuições são bem-vindas! Se você encontrar um problema ou tiver alguma melhoria para sugerir, por favor, abra uma issue ou envie um pull request.
